@@ -1,6 +1,6 @@
 # driver-drowsiness
 Driver Drowsiness Detection System
-In this Python project, we will be using OpenCV for gathering the images from webcam and feed them into a Deep Learning model which will classify whether the person’s eyes are ‘Open’ or ‘Closed’. The approach we will be using for this Python project is as follows :
+In this Python project, we will be using OpenCV for gathering the images from webcam and feed them into a Deep Learning model which will classify whether the person’s eyes are ‘Open’ or ‘Closed’. The approach is as follows :
 
 Step 1 – Take image as input from a camera.
 
